@@ -1,5 +1,7 @@
 # 个人简历
-这是一个使用 Next.js 和 Tailwind CSS 构建的个人简历项目。  
+这是一个使用 Next.js 和 Tailwind CSS 构建的个人简历项目。 
+## 在线示例
+ - https://cv.jobleap4u.com/
 
 
 ## 项目概述
