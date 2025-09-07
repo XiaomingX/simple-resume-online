@@ -1,11 +1,11 @@
 export const Config = {
     personalInfo: {
-        name: "林悦然",
+        name: "林悦悦",
         phone: "153xxxxxxxx",
         email: "xxxxxx@gmail.com",
         address: "浙江杭州（可即刻赴京 / 沪就职）",
         age: "22岁",
-        job: "目标岗位：增长营销专员（数据驱动方向）",
+        job: "目标：增长营销专员（数据驱动方向）",
         status: "2026届本科应届生"
     },
     skills: [
