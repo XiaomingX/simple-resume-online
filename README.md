@@ -1,6 +1,5 @@
 # 个人简历
 这是一个使用 Next.js 和 Tailwind CSS 构建的个人简历项目。  
-example
 
 
 ## 项目概述
